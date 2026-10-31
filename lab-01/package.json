@@ -2,8 +2,10 @@
   "name": "lab_01_express_js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "plain": "node plain-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

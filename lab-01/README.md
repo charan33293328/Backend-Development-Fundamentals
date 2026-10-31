@@ -46,6 +46,8 @@ node plain-server.js
 Run the following command:
 
 ```bash
+npm start
+# or
 node app.js
 ```
 

@@ -6,6 +6,8 @@
 - **Registration Number:** 252U1R8045
 - **Section:** CSE(QE)-2B - 204
 
+**Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
+
 ## Objective
 
 To create a basic HTTP server using Node.js and build a web server using Express.js with multiple routes and proper HTTP status codes.

@@ -5,6 +5,8 @@
 **Class:** B.Tech CSE(QE) – 2B  
 **Section:** S-13 204
 
+**Deployed Link:** https://backend-development-fundamentals-1-fzeu.onrender.com
+
 ## Objective
 
 Connect an Express server to a SQLite database and expose CRUD operations over HTTP.

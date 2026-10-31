@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "22.x"
+  }
   "name": "lab-02-sqlite-crud",
   "version": "1.0.0",
   "description": "Lab 2: SQLite database and CRUD routes",
